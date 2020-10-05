@@ -1,0 +1,21 @@
+{
+  "name": "npm_password_gen",
+  "version": "2.0.0",
+  "description": "Random Password Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "password",
+    "generator",
+    "pass",
+    "random",
+    "browser",
+    "crypto",
+    "security",
+    "privacy"
+  ],
+  "author": "Vaibhav Chaudhari",
+  "license": "ISC"
+}
