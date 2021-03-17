@@ -9,7 +9,7 @@ Run `npm i npm_password_gen`
 ```
 const rpg = require('npm_password_gen');
 
-password = rpg.randomPasswordGenerator(12);
+const password = rpg.randomPasswordGenerator(12);
 
 console.log(password);
 ```
